@@ -14,7 +14,8 @@ help Louise. </p>
  <p>This analysis was focused on the Theater Kickstarter campaigns only. The results showed that based on Launch Date, (1) There was more success in the months of May and June, also meaning that the Second Quarter of the year was when most campaigns were successful. (2) These two monthss were also when the biggest number of
 campaigns failed as well. (3) Overall, most campaigns were not canceled, meaning that they were either very successful or just never made the cut, January was the
 month with most projects canceled. </p>
-![Graph Based on Launch Date](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91698664/136102320-99691644-1023-4df7-ab61-775da6a39ecd.png)
+
 
 ### Analysis of Outcomes Based on Goals
   <p>Based on goals, the campaigns with a higher successful percentage were in the, "Less than 1000" and "1000 to 4999" ranges. The campaigns with the higher Percentage failed were the more expensive campaigns, specifically, "45000 to 49000" and "greater than 50000". 
@@ -29,7 +30,7 @@ to get the chart. Turns out ity was much easier than i had thought and I managed
   <p>One Conclusion that you can draw out is that most successful projects happen during the month of May.  A second conclusion is that during the month of May, there are also more projects that have failed than any other month of the year.</p>
 
 - What can you conclude about the Outcomes based on Goals?
-  <p>Seeing the chart for "Outcomes Based on Goals", you can conclude that monwy is not really the problem. Whether, the project is successful or not depends on how good of a project it is. Of course, most successful projects happen to be more on the lower side of the goal (<14999), but there are also successful projects on the more expensive side even two prjects worth more that 50000.</p>
+  <p>Seeing the chart for "Outcomes Based on Goals", you can conclude that monwy is not really the problem. Whether, the project is successful or not depends on how good of a project it is. Of course, most successful projects happen to be more on the lower side of the goal (less than 4999), but there are also successful projects on the more expensive side even two prjects worth more that 50000.</p>
 
 - What are some limitations of this dataset?
   <P>I think that one of the biggest limitations of this dateset is that we really cant make much inferences based soley on gaols and launch date. Perhaps, knowing how much promotion for each project was made would allow us to make better decisions and help Louise out even more. 
