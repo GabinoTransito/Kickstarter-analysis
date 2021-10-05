@@ -32,7 +32,7 @@ to get the chart. Turns out ity was much easier than i had thought and I managed
   <p>Seeing the chart for "Outcomes Based on Goals", you can conclude that monwy is not really the problem. Whether, the project is successful or not depends on how good of a project it is. Of course, most successful projects happen to be more on the lower side of the goal (<14999), but there are also successful projects on the more expensive side even two prjects worth more that 50000.</p>
 
 - What are some limitations of this dataset?
-  <P>I think that one of the biggest limitations of this dateset is that we really cant make much inferences based soley on gaols and launch date. Perhaps, knowing how much promotion for each project was made would allow us to make better decisions and help Louise out even more. </p>
+  <P>I think that one of the biggest limitations of this dateset is that we really cant make much inferences based soley on gaols and launch date. Perhaps, knowing how much promotion for each project was made would allow us to make better decisions and help Louise out even more. 
 
 - What are some other possible tables and/or graphs that we could create?
   <p>We could also create a table that filters the categories (parent and subcategories), by country and that could show us which type of programs are more successful per country and that could help Louise on her next projects.</p>
