@@ -35,5 +35,3 @@ to get the chart. Turns out ity was much easier than i had thought and I managed
 
 - What are some other possible tables and/or graphs that we could create?
   <p>We could also create a table that filters the categories (parent and subcategories), by country and that could show us which type of programs are more successful per country and that could help Louise on her next projects.</p>
-
-this is a test for 3
