@@ -19,7 +19,7 @@ month with most projects canceled. </p>
 
 ### Analysis of Outcomes Based on Goals
   <p>Based on goals, the campaigns with a higher successful percentage were in the, "Less than 1000" and "1000 to 4999" ranges. The campaigns with the higher Percentage failed were the more expensive campaigns, specifically, "45000 to 49000" and "greater than 50000". 
-  ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91698664/136104176-ebca09ad-1e3a-4be3-8b9b-4fc7328ca65b.png)
+
 
 ### Challenges and Difficulties Encountered
 <p>The part where I struggled the most was making the last chart "Outcomes based on Goals". I wasn't sure if i had to make a pivot table in order
