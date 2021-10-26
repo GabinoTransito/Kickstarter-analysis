@@ -15,12 +15,12 @@ help Louise. </p>
 campaigns failed as well. (3) Overall, most campaigns were not canceled, meaning that they were either very successful or just never made the cut, January was the
 month with most projects canceled. </p>
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91698664/136102320-99691644-1023-4df7-ab61-775da6a39ecd.png)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Analysis of Outcomes Based on Goals
   <p>Based on goals, the campaigns with a higher successful percentage were in the, "Less than 1000" and "1000 to 4999" ranges. The campaigns with the higher Percentage failed were the more expensive campaigns, specifically, "45000 to 49000" and "greater than 50000". 
 <<<<<<< HEAD
- ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91698664/136104176-ebca09ad-1e3a-4be3-8b9b-4fc7328ca65b.png)
+ ![Outcomes_vs_Goals](https://github.com/GabinoTransito/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
   
 =======
 
