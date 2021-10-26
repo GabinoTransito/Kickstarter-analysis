@@ -14,8 +14,7 @@ help Louise. </p>
  <p>This analysis was focused on the Theater Kickstarter campaigns only. The results showed that based on Launch Date, (1) There was more success in the months of May and June, also meaning that the Second Quarter of the year was when most campaigns were successful. (2) These two monthss were also when the biggest number of
 campaigns failed as well. (3) Overall, most campaigns were not canceled, meaning that they were either very successful or just never made the cut, January was the
 month with most projects canceled. </p>
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91698664/136102320-99691644-1023-4df7-ab61-775da6a39ecd.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Theater_Outcomes_vs_Launch](https://github.com/GabinoTransito/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
   <p>Based on goals, the campaigns with a higher successful percentage were in the, "Less than 1000" and "1000 to 4999" ranges. The campaigns with the higher Percentage failed were the more expensive campaigns, specifically, "45000 to 49000" and "greater than 50000". 
